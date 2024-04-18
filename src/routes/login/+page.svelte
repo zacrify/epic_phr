@@ -47,6 +47,7 @@
     // currentUrl = window.location.href;
 // });
 </script>
-
+<div><h1>EPIC Personal Health Record</h1>
+</div>
 <button class="btn variant-filled" on:click={initiateAuthorizationRequest}>Sign In with Epic</button>
 <!-- <p>{currentUrl}</p> -->
